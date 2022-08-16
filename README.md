@@ -1,6 +1,6 @@
 # E aí, bora pro Desafio? 🔥  
 
-![ https://www.instagram.com/p/ChTBg1BpLGU/ ](./21daysofcode.png)
+[![ ](./21daysofcode.png)]( https://www.instagram.com/p/ChTBg1BpLGU/ )
 
 💡 Ter um prazo para realizar tarefas, contribui para a saúde mental de quem deseja criar um hábito.
 
