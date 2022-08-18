@@ -1,0 +1,85 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  background: #E2ECF0;
+  font-family: sans-serif;
+}
+
+/* Apenas o container */
+.container {
+  background: #FFFFFF;
+  min-height: 50vh;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  align-content: space-between;
+}
+
+/* Caixinha onde o botão desliza */
+.slider{
+  position: relative;
+  background: #F7F7F7;
+  width: 530px;
+  height: 275px;
+  border: 15px solid #8E8F93;
+  border-radius: 200px;
+  cursor: pointer;
+  transition: all 0.3s ease-in-out;
+}
+
+/* O botão redondinho */
+.button {
+  background: #F7F7F7;
+  border: none;
+  width: 275px;
+  height: 275px;
+  border-radius: 50%;
+  pointer-events: none;
+  position: absolute;
+  left: 0;
+  box-shadow: 1px 13px 30px #7f7f7f;
+  transition: all 0.3s ease-in-out;
+}
+
+/* Esconde o checkbox */
+label > .toggle-input {
+  display: none;
+}
+
+/* Texto OFF */
+label > .slider:after {
+  position: absolute;
+  top: 50%;
+  left: 288px;
+  color: #7F7F7F;
+  font-size: 100px;
+  font-weight: bold;
+  transform: translate(0, -50%);
+  transition: all 0.3s ease-in-out;
+  content: "OFF";
+}
+
+/* background ON */
+label > .toggle-input:checked ~ .slider {
+  background: #4CDA64;
+  border: 15px solid #4CDA64;
+  transition: all 0.3s ease-in-out;
+}
+
+/* Botão ON */
+label > .toggle-input:checked ~ .slider > .button {
+  left: 254px;
+}
+
+/* Texto ON */
+label > .toggle-input:checked ~ .slider:after {
+  position: absolute;
+  top: 50%;
+  left: 65px;
+  color: #F7F7F7;
+  transition: all 0.3s ease-in-out;
+  content: "ON";
+}
