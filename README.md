@@ -11,8 +11,8 @@ Não se esqueça! Utilize as hastags a baixo em suas postagens, publique no stor
  - [x] Dia 1: Crie um repositório para listar os projetos que serão desenvolvidos durante os 21 dias de código;
  - [x] Dia 2: Faça um Hello World customizado com fontes, cores e imagens;
  - [x] Dia 3: Crie um botão animado;
- - [ ] Dia 4: Crie uma calculadora;
- - [ ] Dia 5: Desenvolva uma página customizada que exiba erro 404;
+ - [x] Dia 4: Crie uma calculadora;
+ - [x] Dia 5: Desenvolva uma página customizada que exiba erro 404;
  - [ ] Dia 6: Crie um card com o efeito glassmorphism;
  - [ ] Dia 7: Desenvolva um contador;
  - [ ] ...
