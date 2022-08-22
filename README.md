@@ -14,5 +14,5 @@ Não se esqueça! Utilize as hastags a baixo em suas postagens, publique no stor
  - [x] Dia 4: Crie uma calculadora;
  - [x] Dia 5: Desenvolva uma página customizada que exiba erro 404;
  - [x] Dia 6: Crie um card com o efeito glassmorphism;
- - [ ] Dia 7: Desenvolva um contador;
+ - [x] Dia 7: Desenvolva um contador;
  - [ ] ...
