@@ -18,7 +18,7 @@ Não se esqueça! Utilize as hastags a baixo em suas postagens, publique no stor
  - [x] Dia 06: Crie um card com o efeito glassmorphism;
  - [x] Dia 07: Desenvolva um contador;
  - [x] Dia 08: Desenvolva um toggle que altere o tema para claro/escuro;
- - [ ] Dia 09: Crie uma animação de loading;
+ - [x] Dia 09: Crie uma animação de loading;
  - [ ] Dia 10: Utilize a lib Perticle.js do JS;
  - [ ] Dia 11: Crie um layout de um formulário de login;
  - [ ] Dia 12: Desenvolva uma galeria de imagens;
