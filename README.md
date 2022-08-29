@@ -20,8 +20,8 @@ Não se esqueça! Utilize as hastags a baixo em suas postagens, publique no stor
  - [x] Dia 08: Desenvolva um toggle que altere o tema para claro/escuro;
  - [x] Dia 09: Crie uma animação de loading;
  - [x] Dia 10: Utilize a lib Particle.js do JS;
- - [ ] Dia 11: Crie um layout de um formulário de login;
- - [ ] Dia 12: Desenvolva uma galeria de imagens;
+ - [x] Dia 11: Crie um layout de um formulário de login;
+ - [x] Dia 12: Desenvolva uma galeria de imagens;
  - [ ] Dia 13: Desenvolva um menu responsivo;
  - [ ] Dia 14: Desenvolva um formulário de quizzes;
  - [ ] ...

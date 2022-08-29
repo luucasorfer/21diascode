@@ -1,0 +1,167 @@
+@import url(https://fonts.googleapis.com/css?family=Roboto:400,100,300,500);
+
+* {
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  width: 100%;
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background: linear-gradient(165deg, #0c0ce977, #0c0ce94d);
+  font-family: "Roboto", Arial, Helvetica, sans-serif;
+}
+
+.container {
+  width: 80%;
+  height: 80vh;
+  display: flex;
+  box-shadow: 5px 5px 10px rgb(0 0 0 / 21%);
+}
+
+.form-image {
+  height: 100%;
+  width: 75%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background: #fde3a7d7;
+  box-shadow: 1px 0px 4px rgba(0, 0, 0, 0.25);
+  z-index: 1;
+}
+
+.form-image img {
+  width: 745px;
+  display: flex;
+}
+
+.form {
+  height: 100%;
+  width: 50%;
+  display: flex;
+  justify-content: space-evenly;
+  flex-direction: column;
+  background: #FFF;
+  align-items: center;
+}
+
+.form-header {
+  font-size: 20px;
+  margin-bottom: 3rem;
+}
+
+.form-header::after {
+  content: "";
+  display: block;
+  width: 3rem;
+  height: 0.3rem;
+  border-radius: 50px;
+  background: #6c63ff;
+}
+
+.input-group {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: space-between;
+  padding: 1rem 0;
+}
+
+.input-box {
+  display: flex;
+  flex-direction: column;
+  margin-bottom: 1.1rem;
+}
+
+.input-box label {
+    font-size: 1rem;
+    font-weight: 600;
+    color: #000000c0;
+    margin: 0 0 4px 4px;
+}
+
+.input-box input::placeholder {
+  color: rgba(0, 0, 0, 0.58);
+}
+
+.input-box input {
+  width: 350px;
+  height: 20px;
+  margin: 0.6rem 0;
+  padding: 0.8rem 1.2rem;
+  border: none;
+  border-radius: 10px;
+  box-shadow: 1px 1px 6px #0000001c;
+  font-size: 0.8rem;
+}
+
+.input-box input:hover {
+  background-color: #eeeeee75;
+}
+
+.input-box input:focus-visible {
+  outline: 1px solid #6c63ff;
+}
+
+.login-button {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
+
+.login-button button {
+  width: 200px;
+  border: none;
+  background-color: #6c63ff;
+  padding: 0.4rem 1rem;
+  border-radius: 5px;
+  cursor: pointer;
+}
+
+.login-button button:hover {
+  background-color: #6b63fff1;
+}
+
+.login-button button a {
+  text-decoration: none;
+  font-weight: 500;
+  color: #fff;
+  font-size: 18px;
+}
+
+.login-button > a {
+  cursor: pointer;
+  padding: 5px;
+  margin: 10px auto;
+  text-decoration: none;
+  border-bottom: 1px solid transparent;
+}
+
+.login-button > a:hover {
+  border-bottom-color: #6b63fff1;
+}
+
+.cadastrar > span {
+  font-weight: 400;
+  font-size: 14px;
+  line-height: 26px;
+  color: rgba(0, 0, 0, 0.58);
+  padding: 5px;
+}
+
+.cadastrar > a {
+  font-weight: 700;
+  font-size: 18px;
+  line-height: 26px;
+  color: #6c63ff;
+  text-decoration: none;
+  border-bottom: 1px solid transparent;
+}
+
+.cadastrar > a:hover {
+  border-bottom-color: #6c63ff;
+}
