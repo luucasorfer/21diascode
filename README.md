@@ -22,6 +22,6 @@ Não se esqueça! Utilize as hastags a baixo em suas postagens, publique no stor
  - [x] Dia 10: Utilize a lib Particle.js do JS;
  - [x] Dia 11: Crie um layout de um formulário de login;
  - [x] Dia 12: Desenvolva uma galeria de imagens;
- - [ ] Dia 13: Desenvolva um menu responsivo;
+ - [x] Dia 13: Desenvolva um menu responsivo;
  - [ ] Dia 14: Desenvolva um formulário de quizzes;
  - [ ] ...
