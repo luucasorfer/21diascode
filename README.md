@@ -24,4 +24,10 @@ Não se esqueça! Utilize as hastags a baixo em suas postagens, publique no stor
  - [x] Dia 12: Desenvolva uma galeria de imagens;
  - [x] Dia 13: Desenvolva um menu responsivo;
  - [x] Dia 14: Desenvolva um formulário de quizzes;
- - [ ] ...
+ - [ ] Dia 15: E-commerce
+ - [ ] Dia 16: Consumindo uma API pública
+ - [ ]  Dia 17: Captirando eventos do teclado
+ - [ ]  Dia 18: Gerador de senha
+ - [ ] Dia 19: Listando imagens de uma API pública | Random Dog Image
+ - [ ]  Dia 20: Copy Emoji to Clipboard
+ - [ ] Dia 21: ...
